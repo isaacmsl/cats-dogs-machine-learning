@@ -1,0 +1,3 @@
+# Cats and Dogs Machine Learning
+
+This is a simple machine learning project that classifies images of cats and dogs. The dataset used is the [The Oxford-IIIT Pet Dataset](https://www.robots.ox.ac.uk/~vgg/data/pets/). The dataset contains 7400 images of cats and dogs. The goal of this project is to build a classifier model that can accurately classify images of four different breeds of cats and dogs. The breeds are: Abyssinian, Bengal (cats) and American Pit Bull Terrier, American Bulldog(dogs).
